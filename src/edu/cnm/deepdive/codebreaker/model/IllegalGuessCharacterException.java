@@ -1,7 +1,7 @@
 package edu.cnm.deepdive.codebreaker.model;
 
 /**
- * Exception class to handle the guess has invalid characters.
+ * Exception class to handle when the guess has invalid characters.
  */
 public class IllegalGuessCharacterException extends IllegalArgumentException {
 
